@@ -20,7 +20,7 @@ async function obtainContacts() {
     for (let i = 4; i >= 0; i--) {
       extractContact(i);
       //usando unshift
-      //usando splice
+      //usando splice/
     }
 
   } catch (err) {
